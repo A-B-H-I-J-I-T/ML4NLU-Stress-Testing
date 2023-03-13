@@ -1,0 +1,71 @@
+premise	hypothesis	label
+I went to the beech yesterday.	I went to the beach yesterday.	True
+The car is parked in the drivway.	The car is parked in the driveway.	True
+He was waering a red shrit.	He was wearing a red shirt.	True
+The resturant had a great atmostphere.	The restaurant had a great atmosphere.	True
+She put on her makep before leaving.	She put on her makeup before leaving.	True
+He has a studding personality.	He has a stunning personality.	True
+I love eatting pizza on Fridays.	I love eating pizza on Fridays.	True
+The child has a fevor.	The child has a fever.	True
+We need to buy more toilat paper.	We need to buy more toilet paper.	True
+He was waring green pants and a blue shurt.	He was wearing green pants and a blue shirt.	True
+I can't belive she maade that mistake.	I can't believe she made that mistake.	True
+The actor gave a wounderful performence.	The actor gave a wonderful performance.	True
+I need to buy some more tishues.	I need to buy some more tissues.	True
+She has beautiful eye lashes.	She has beautiful eyelashes.	True
+The blanket was made of fleeze.	The blanket was made of fleece.	True
+He had a sore throate.	He had a sore throat.	True
+She applied the lipstik before the meeting.	She applied the lipstick before the meeting.	True
+The coffe was too hot.	The coffee was too hot.	True
+The room was too coldd.	The room was too cold.	True
+The word was misspelled on purpuse.	The word was misspelled on purpose.	True
+I need to go to the pharmecy.	I need to go to the pharmacy.	True
+She has a bueatiful smile.	She has a beautiful smile.	True
+I need to buy some more breadcumbs.	I need to buy some more breadcrumbs.	True
+He has a solitare diamond ring.	He has a solitaire diamond ring.	True
+The students needed to bring their own penciles.	The students needed to bring their own pencils.	True
+He was waering a red tie with his suit.	He was wearing a red tie with his suit.	True
+The fabric is very sof.	The fabric is very soft.	True
+The car has a dent in the drver's side door.	The car has a dent in the driver's side door.	True
+I need to buy more choclate chips.	I need to buy more chocolate chips.	True
+He cut his finger with the knif.	He cut his finger with the knife.	True
+She has a collection of dols.	She has a collection of dolls.	True
+The movie was very suspensful.	The movie was very suspenseful.	True
+I need to go to the dentist for a cavitie.	I need to go to the dentist for a cavity.	True
+The shirt has a loos thread.	The shirt has a loose thread.	True
+The food was too spicey.	The food was too spicy.	True
+She has a talent for drowing.	She has a talent for drawing.	True
+I have a headach.	I have a headache.	True
+He bought a paire of shoes.	He bought a pair of shoes.	True
+The resturant was very bussy.	The restaurant was very busy.	True
+She has a small scar on her cheak.	She has a small scar on her cheek.	True
+The building had a grayish-blue colr.	The building had a grayish-blue color.	True
+I need to make an appoinment with the docter.	I need to make an appointment with the doctor.	True
+The room was too brite.	The room was too bright.	True
+He needs to shave his berd.	He needs to shave his beard.	True
+She has a collection of old vinel records.	She has a collection of old vinyl records.	True
+The student was scribling notes in class.	The student was scribbling notes in class.	True
+I need to buy some more cofee filters.	I need to buy some more coffee filters.	True
+He had a hard time finding the right adrees.	He had a hard time finding the right address.	True
+The cat had a small scrath on its nose.	The cat had a small scratch on its nose.	True
+I need to buy some more kichen towels.	I need to buy some more kitchen towels.	True
+She has a fear of hights.	She has a fear of heights.	True
+The plant needs more sunlite.	The plant needs more sunlight.	True
+I need to clean the kitchn floor.	I need to clean the kitchen floor.	True
+He has a couh and a runny nose.	He has a cough and a runny nose.	True
+The teapot was made of porcelin.	The teapot was made of porcelain.	True
+She was wearing a gold ncklace.	She was wearing a gold necklace.	True
+The book was missing a few payges.	The book was missing a few pages.	True
+He was a great athleet in highschool.	He was a great athlete in high school.	True
+I need to buy some more toothpast.	I need to buy some more toothpaste.	True
+The car has a scrach on the hood.	The car has a scratch on the hood.	True
+She has a talent for singin.	She has a talent for singing.	True
+I need to replace the wiperblades on my car.	I need to replace the wiper blades on my car.	True
+The box was labeled "fragil".	The box was labeled "fragile".	True
+He had a difficult time pelling the word.	He had a difficult time spelling the word.	True
+I need to go to the stor for some grocieres.	I need to go to the store for some groceries.	True
+She has a colletion of antique jewlry.	She has a collection of antique jewelry.	True
+The movie was very romatic.	The movie was very romantic.	True
+I need to make sure the door is locked befor leaving.	I need to make sure the door is locked before leaving.	True
+The letter was mailed with insuffient postage.	The letter was mailed with insufficient postage.	True
+She has a talent for writting.	She has a talent for writing.	True
